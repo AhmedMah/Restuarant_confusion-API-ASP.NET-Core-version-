@@ -1,0 +1,8 @@
+c:\Users\AHMED\Documents\confusionresturant\bin\Debug\netcoreapp1.1\confusionresturant.deps.json
+c:\Users\AHMED\Documents\confusionresturant\bin\Debug\netcoreapp1.1\confusionresturant.runtimeconfig.json
+c:\Users\AHMED\Documents\confusionresturant\bin\Debug\netcoreapp1.1\confusionresturant.runtimeconfig.dev.json
+c:\Users\AHMED\Documents\confusionresturant\bin\Debug\netcoreapp1.1\confusionresturant.dll
+c:\Users\AHMED\Documents\confusionresturant\bin\Debug\netcoreapp1.1\confusionresturant.pdb
+c:\Users\AHMED\Documents\confusionresturant\obj\Debug\netcoreapp1.1\confusionresturant.AssemblyInfo.cs
+c:\Users\AHMED\Documents\confusionresturant\obj\Debug\netcoreapp1.1\confusionresturant.dll
+c:\Users\AHMED\Documents\confusionresturant\obj\Debug\netcoreapp1.1\confusionresturant.pdb
